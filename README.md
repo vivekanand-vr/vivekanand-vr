@@ -8,3 +8,6 @@ Passionate about building scalable and efficient web applications using Java and
 ### Connect With Me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivekanand-vernekar)
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vvek_9)
+[![leetcode](https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black)](https://leetcode.com/vicky_007)
+
+
