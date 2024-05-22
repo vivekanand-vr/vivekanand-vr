@@ -1,10 +1,10 @@
-## 👨‍💻 Vivekanand Vernekar | Java Full Stack Developer
+##  Hey There <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="25"> I am a Java Full Stack Developer 👨‍💻
 
 - Passionate about building scalable and efficient web applications using Java and React.
-- Strong foundation in backend and frontend technologies.
-- Thrive in dynamic environments and enjoy solving complex problems.
 - Currently working on innovative projects to enhance user experience and functionality.
 - Checkout my portfolio  <a href="https://vivekanand-vr.netlify.app/">`Link`</a>🚀
+
+ <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 ## 📊 GitHub Stats
 ![vivekanand-vr's Stats](https://github-readme-stats.vercel.app/api?username=vivekanand-vr&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
