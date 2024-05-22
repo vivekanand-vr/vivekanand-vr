@@ -5,10 +5,9 @@
 - Listed all my projects in my portfolio website. &nbsp;   [![portfolio link](https://img.shields.io/badge/portfolio-006400?style=for-the-badge&logo=lintcode&logoColor=white)](https://vivekanand-vr.netlify.app/)
 
 <br />
-<div>
- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450" /> 
- <img src="https://github-readme-stats.vercel.app/api?username=vivekanand-vr&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true&hide_rank=true"  width="400"/>
-</div>
+ <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="650" /> 
+
+![vivekanand-vr's Stats](https://github-readme-stats.vercel.app/api?username=vivekanand-vr&theme=dark&show_icons=true&hide_border=true&count_private=true&text_color=FFFFFF)
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=git,react,redux,tailwind,nodejs,java,hibernate,spring,maven,docker,mysql,mongo)](https://skillicons.dev)
