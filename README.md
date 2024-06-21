@@ -16,6 +16,6 @@
 [![codeforces](https://img.shields.io/badge/codeforces-FF0000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/vicky_9)
 
 ## Connect With Me
-[![email](https://img.shields.io/badge/email-ff4d00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekvernekar21@gmail.com) 
+[![email](https://img.shields.io/badge/email-ff4d00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekvernekar21@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivekanand-vernekar) 
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vvek_9)
