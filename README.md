@@ -4,7 +4,7 @@
 - Currently working on innovative projects to enhance user experience and functionality.
 - Listed all my projects in my Portfolio.  
 
-&nbsp; &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/badge/My%20Portfolio-1E90FF?style=for-the-badge&logo=firefox&logoColor=white">
+&nbsp; &nbsp; &nbsp; &nbsp;  [![portfolio link](https://img.shields.io/badge/My%20Portfolio-1E90FF?style=for-the-badge&logo=firefox&logoColor=white)](https://vivekanand-vr.netlify.app/)
 
 &nbsp; &nbsp; &nbsp; &nbsp; ![vivekanand-vr's Stats](https://github-readme-stats.vercel.app/api?username=vivekanand-vr&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
 
