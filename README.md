@@ -1,12 +1,10 @@
 ##  Hey There <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="25"> I am a Full Stack Engineer 👨‍💻
 
-- Passionate about building scalable and efficient web applications using `Java`, `React` & `Node JS`.
+- Passionate about building scalable and efficient web applications using `Next.js`, `React` & `Spring Boot`.
 - Currently working on innovative projects to enhance user experience and functionality.
 - Listed all my projects in my Portfolio.  
 
 &nbsp; &nbsp; &nbsp; &nbsp;  [![portfolio link](https://img.shields.io/badge/My%20Portfolio-1E90FF?style=for-the-badge&logo=firefox&logoColor=white)](https://vivekanand-vr.netlify.app/)
-
-&nbsp; &nbsp; &nbsp; &nbsp; ![vivekanand-vr's Stats](https://github-readme-stats.vercel.app/api?username=vivekanand-vr&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=git,js,react,redux,tailwind,java,spring,docker,redis,kafka,mysql,mongo,nodejs&theme=light)](https://skillicons.dev)
